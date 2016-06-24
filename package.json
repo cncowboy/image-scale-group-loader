@@ -1,5 +1,5 @@
 {
-  "name": "image-scale-group-loader",
+  "name": "image-scale-group2-loader",
   "version": "1.0.0",
   "description": "Load different scale level images (@2x, @3x) with single require in webpack",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eldereal/image-scale-group-loader.git"
+    "url": "git+https://github.com/cncowboy/image-scale-group-loader.git"
   },
-  "author": "",
+  "author": "cncowboy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eldereal/image-scale-group-loader/issues"
+    "url": "https://github.com/cncowboy/image-scale-group-loader.git/issues"
   },
-  "homepage": "https://github.com/eldereal/image-scale-group-loader#readme",
+  "homepage": "https://github.com/cncowboy/image-scale-group-loader/#readme",
   "dependencies": {
     "co": "^4.6.0",
     "co-fs": "^1.2.0"
